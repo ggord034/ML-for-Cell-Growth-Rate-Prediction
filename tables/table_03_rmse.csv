@@ -1,0 +1,4 @@
+Model,RMSE Train [d^-1],RMSE Valid [d^-1],RMSE Test [d^-1]
+Polynomial,0.1444,0.1568,0.157
+kNN (uniform),0.1423,0.1559,0.1584
+kNN (distance),0.0,0.1547,0.1557

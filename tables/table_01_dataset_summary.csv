@@ -1,0 +1,6 @@
+Variable,Mean,Standard Deviation,Minimum,Maximum
+Specific Growth Rate [d^-1],0.2834,0.1885,0.0,0.75
+Temperature [C],36.9167,2.0269,30.0,42.0
+pH,6.9982,0.3379,6.0,7.8
+Glucose [mM],14.6642,8.7503,0.0,39.9
+Lactate [mM],14.8016,9.2628,0.0,40.0
