@@ -258,8 +258,3 @@ class. Rather than running an experiment for every combination of pH, temperatur
 can be used to narrow down which conditions are most likely to result in a high growth rate, and only those 
 conditions would then need to be tested. The results also support a feeding strategy that keeps glucose high while 
 limiting the build-up of lactate, along with tight pH control near 7.0. 
-
-Due to the size of its error, the model should be used as a tool to guide experiments rather than replace them. 
-Future improvements could include setting negative predictions to 0, investigating the samples with a growth rate of 0, 
-averaging the learning curve over several random subsets, and measuring additional process parameters that may 
-explain the remaining error.
